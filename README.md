@@ -1,7 +1,7 @@
 15 EJERCICIOS DE NUMPY
 
 
-El programa creado permite visualizar los resultados de 15 ejercicios escogidos del documento establecido.
+El programa creado permite visualizar los resultados de 15 ejercicios escogidos del documento pre-establecido.
 
 CAPTURAS DE PANTALLA:
 
