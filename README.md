@@ -1,9 +1,9 @@
-#15 EJERCICIOS DE NUMPY
+15 EJERCICIOS DE NUMPY
 
 
 El programa creado permite visualizar los resultados de 15 ejercicios escogidos del documento establecido.
 
-#CAPTURAS DE PANTALLA:
+CAPTURAS DE PANTALLA:
 
 A continuación, se muestra capturas de pantalla de los resultados. 
 ![imagen](https://user-images.githubusercontent.com/58041267/123890593-184e5d80-d91d-11eb-8be0-b8e5e4e17012.png)
